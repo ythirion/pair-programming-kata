@@ -114,17 +114,20 @@ The Different Styles of Pair Programming (more details [here](https://www.drovio
 - Make 2 iterations of 40 minutes
   - 35 minutes coding
   - 5 minutes of reflect
-  - Change of pair
 
-#### Reflect -> Faire 1 carte
-- What did we learn together?
-- How could be more efficient next time?
-- What else?
+> Use the "reflect" card
+
+![Reflect card](img/pair-programming-reflect.png)
+
+- Change of pair at each iteration
+- Use `Strong Style` pairing
+  - Use a timer: 5 minutes to start then adapt if necessary
 
 ### Conclusion -> faire 1 quadrant
 - What did you do faster than usual in pair?
 - What did you do slower than usual in pair?
 - What did you learn in your pair?
+- 
 
 #### How to start?
 ![Pairing matrix](img/pairing-matrix.png)
