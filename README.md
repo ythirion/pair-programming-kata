@@ -90,7 +90,7 @@ The Different Styles of Pair Programming (more details [here](https://www.drovio
   - Decision points
   - Pros / cons
 - Build confidence: 
-  - Commit often
+  - `Commit` often
   - Write quality unit tests
 - Communicate – without violence
   - To propose an idea : “I think...”
@@ -108,14 +108,18 @@ The Different Styles of Pair Programming (more details [here](https://www.drovio
   - Be humble
 
 ### Concrete Practice - Yatzy (1h15)
-- Explain rules of the refactoring kata here
-- Make 2 iterations of 40 minutes (change of pair)
+- Find a pair
+  - Discover together the code and the associated rules of the `Yatzy` [here](yatzy/YATZY.md)
+  - Select a programming language
+- Make 2 iterations of 40 minutes
   - 35 minutes coding
   - 5 minutes of reflect
+  - Change of pair
 
 #### Reflect -> Faire 1 carte
 - What did we learn together?
 - How could be more efficient next time?
+- What else?
 
 ### Conclusion -> faire 1 quadrant
 - What did you do faster than usual in pair?

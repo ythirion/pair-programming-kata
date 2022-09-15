@@ -1,28 +1,24 @@
-*.DS_Store
-*.swp
-*~
-*.class
-*.tasty
-**/target/*
-logs/
-.bsp/
-.bloop
-.dotty-ide-artifact
-.dotty-ide.json
-.idea
-.metals
-.vscode
-*.csv
-*.dat
-*.ipr
+/bin/
+/out/
+.gradle
+build
+.classpath
+.settings
+.project
 *.iws
+*.ipr
+.idea/
+target/
+*.iml
+.DS*
+.floo*
 
-*.log
 
 # sbt specific
 .cache/
 .history/
 .lib/
+.bsp/
 dist/*
 lib_managed/
 src_managed/
@@ -33,13 +29,18 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
-# .NET
-.vs/
+
+# C#
 bin/
 obj/
-*.DotSettings.user
+.vs/
+*.user
 
-# php
-*.lock
-*.cache
-vendor/
+#Mac
+.DS_Store
+
+## Verify
+*.received.*
+
+## VS code
+.vscode
