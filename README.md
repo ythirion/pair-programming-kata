@@ -123,11 +123,11 @@ The Different Styles of Pair Programming (more details [here](https://www.drovio
 - Use `Strong Style` pairing
   - Use a timer: 5 minutes to start then adapt if necessary
 
-### Conclusion -> faire 1 quadrant
+### Conclusion
 - What did you do faster than usual in pair?
 - What did you do slower than usual in pair?
-- What did you learn in your pair?
-- 
+- How was the communication?
+- What other pros/cons did you discover during this workshop?
 
 #### How to start?
 ![Pairing matrix](img/pairing-matrix.png)
