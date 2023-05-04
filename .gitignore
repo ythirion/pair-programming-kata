@@ -44,3 +44,6 @@ obj/
 
 ## VS code
 .vscode
+
+# TS
+node_modules
